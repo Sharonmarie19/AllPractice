@@ -1,1 +1,44 @@
 
+
+h1{
+    margin-left: 15px;
+}
+
+
+#text{ 
+
+    width: 300px;
+    background-color: rgb(238, 215, 10);
+    height: 200px;
+    overflow: auto;
+    margin-left: 15px;
+    border-style: dashed;
+    border-color: rgb(231, 143, 10);
+    margin-bottom: 15px;
+}
+.important{
+    font-weight: bold;
+    text-decoration: underline;
+    
+
+
+}
+.picture{
+    width: 300px;
+    height: 100px;
+    border-style: inset;
+    border-color: rgb(250, 186, 10);
+    border-width: 5px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+body{
+    background-color: rgb(243, 240, 205);
+    border-color: rgb(148, 20, 20);
+    border-style: solid;
+    
+ 
+}
+p{
+    margin: 5px;
+}
