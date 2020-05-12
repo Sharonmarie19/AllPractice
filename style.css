@@ -52,10 +52,26 @@ p{
     margin: 40px;
     width: 300px;
     height: 300px;
-    
-
 
 }
         
-
-    }
+img{
+    width: 80%;
+}
+span{
+    background-color: mediumorchid;
+    display: inline-block;
+    width: 160px;
+    padding: auto;
+    margin-bottom: 20px;
+}
+.box-2 {
+    content: auto;
+    padding: 40px;
+    border-width: 20px;
+    border-style: solid; 
+    border-color: rgb(205, 0, 195);
+    margin: 40px;
+    width: 300px;
+    height: 300px;
+}
