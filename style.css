@@ -35,7 +35,7 @@ h1{
 
     
  
-}
+
 p{
     margin: 5px;
 }
@@ -47,9 +47,11 @@ p{
     border-style: solid; 
     border-color: mediumblue;
     margin: 40px;
-    width: 300px;
+    width: 400px;
     height: 300px;
     display: flex;
+    position: relative;
+    bottom: 40px;
 
 }
         
@@ -87,6 +89,7 @@ h1{
    border-style: dotted;
    border-color: deepskyblue;
    padding: 30px;
+   flex-grow: 4;
 }
 
 .bx1{
@@ -95,6 +98,7 @@ h1{
    border-style: dotted;
    border-color: deepskyblue;
    padding: 90px;
+   flex-grow: 1;
    
 }
 .bx2{
@@ -104,4 +108,11 @@ h1{
    border-style: dotted;
    border-color: deepskyblue;
    padding: 10px;
+   flex-grow: 1;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    
+
 }
