@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    float: left;
+    margin-top: 30px;
+    
+
+}
+img{
+    border-style: solid;
+    border-color: lawngreen;
+
+}
+.belini{
+    position: relative;
+    float: right;
+    width: 40%;
+    top: 15px;
+    right: 10px;
+}
+
+.muffin{
+    width: 40%;
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
+ .lime{
+     width: 50%;
+     height: 20%;
+     position: relative;
+     bottom: 35px;
+     left: 25px;
+ }
+.rum{
+    width: 40%;
+}
+
+.tea{
+    width: 50%;
+    position: relative;
+bottom: 25px;
+left: 40px;
+}
