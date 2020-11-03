@@ -1,24 +1,17 @@
 body {
   background-color: #f8f4ee;
-  
 }
-.burger{
-    width: 35px;
-  height: 5px;
-  background-color: #bb5e08;
-  margin: 6px 0;
-}
+
 header {
   background-color: #f8f4ee;
   font-size: 26px;
   display: flex;
   justify-content: center;
-  
 }
+
 
 span {
   visibility: hidden;
-  
 }
 ul {
   list-style: none;
@@ -54,8 +47,6 @@ ul {
 nav {
   display: flex;
   justify-content: space-evenly;
- 
-  
 }
 .footer {
   background-color: #991818;
@@ -63,7 +54,6 @@ nav {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
-  
 }
 .home-para {
   text-align: center;
@@ -82,9 +72,9 @@ nav {
     border-width: 10px;
     border-radius: 5px;
   }
-  .burger{
+  .burger {
     visibility: hidden;
-}
+  }
   body {
     background-color: #f8f4ee;
   }
@@ -113,7 +103,6 @@ nav {
   span {
     font-size: 25px;
     color: #bb5e08;
-    
   }
   .footer {
     background-color: #991818;
